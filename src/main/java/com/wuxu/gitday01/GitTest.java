@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello3!");
         System.out.println("hello4?");
         System.out.println("bad");
+        System.out.println("good");
     }
 }
