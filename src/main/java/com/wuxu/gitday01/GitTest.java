@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("hello4?");
         System.out.println("bad");
         System.out.println("good");
+        System.out.println("live or die is a question!");
+       
     }
 }
